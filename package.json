@@ -9,7 +9,14 @@
   "author": "Lucille Kenney",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.15.0",
     "express": "^4.13.4",
-    "jade": "^1.11.0"
+    "jade": "^1.11.0",
+    "morgan": "^1.7.0",
+    "nodemon": "^1.9.1",
+    "stylus": "^0.54.2"
+  },
+  "devDependencies": {
+    "bower": "^1.7.7"
   }
 }

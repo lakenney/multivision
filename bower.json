@@ -1,0 +1,19 @@
+{
+  "name": "multivision",
+  "description": "Extreme Tech Training",
+  "main": "index.js",
+  "authors": [
+    "Lucille Kenney"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/lakenney/multivision",
+  "moduleType": [],
+  "private": true,
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "toastr": "^2.1.2",
+    "angular": "^1.5.3",
+    "angular-resource": "^1.5.3",
+    "angular-route": "^1.5.3"
+  }
+}
